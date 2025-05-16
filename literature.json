@@ -1,0 +1,99 @@
+[
+  {
+    "id": "marshall2013",
+    "type": "inproceedings",
+    "title": "Tools to Support Systematic Literature Reviews in Software Engineering: A Mapping Study",
+    "author": "Christopher Marshall and Pearl Brereton and Barbara Kitchenham",
+    "booktitle": "ESEM",
+    "year": "2013",
+    "doi": "10.1109/ESEM.2013.9",
+    "venue": "ESEM"
+  },
+  {
+    "id": "marshall2014",
+    "type": "inproceedings",
+    "title": "Tools to Support the Automation of Systematic Reviews: A Feature Analysis",
+    "author": "Christopher Marshall and Pearl Brereton and Barbara Kitchenham",
+    "booktitle": "EASE",
+    "year": "2014",
+    "doi": "10.1145/2601248.2601270",
+    "venue": "EASE"
+  },
+  {
+    "id": "marshall2015",
+    "type": "inproceedings",
+    "title": "Tools to Support Systematic Reviews in Software Engineering: A Cross-Domain Survey Using Semi-Structured Interviews",
+    "author": "Christopher Marshall and Pearl Brereton and Barbara Kitchenham",
+    "booktitle": "EASE",
+    "year": "2015",
+    "doi": "10.1145/2745802.2745812",
+    "venue": "EASE"
+  },
+  {
+    "id": "goetz2018",
+    "type": "inproceedings",
+    "title": "Supporting Systematic Reviews with SurVis Toolkit",
+    "author": "Sebastian G\u00f6tz and Daniel Str\u00fcber and Martin Gogolla",
+    "booktitle": "MODELS Companion",
+    "year": "2018",
+    "doi": "10.1145/3270112.3270117",
+    "venue": "MODELS"
+  },
+  {
+    "id": "stefanovic2021",
+    "type": "article",
+    "title": "Tool Evaluation in Software Engineering Systematic Reviews",
+    "author": "Ivan Stefanovic",
+    "booktitle": "Journal of Systems and Software",
+    "year": "2021",
+    "venue": "JSS"
+  },
+  {
+    "id": "felizardo2024",
+    "type": "inproceedings",
+    "title": "ChatGPT Application in Systematic Literature Reviews in Software Engineering: An Evaluation of its Accuracy",
+    "author": "Katia Romero Felizardo and M\u00e1rcia Sampaio Lima and Anderson Deizepe and Tayana Uch\u00f4a Conte and Igor Steinmacher",
+    "booktitle": "ESEM",
+    "year": "2024",
+    "doi": "10.1145/3674805.3686666",
+    "venue": "ESEM"
+  },
+  {
+    "id": "islam2024",
+    "type": "article",
+    "title": "AI-enhanced SLR Tools for Evidence-based Software Engineering",
+    "author": "Md. Shamsuzzoha Bayzid Islam",
+    "booktitle": "Empirical Software Engineering",
+    "year": "2024",
+    "venue": "EMSE"
+  },
+  {
+    "id": "garousi2016",
+    "type": "article",
+    "title": "Guidelines for Conducting Multivocal Literature Reviews in Software Engineering",
+    "author": "Vahid Garousi",
+    "booktitle": "Information and Software Technology",
+    "year": "2016",
+    "venue": "IST"
+  },
+  {
+    "id": "ali2019",
+    "type": "article",
+    "title": "A Critical Appraisal Tool for Systematic Literature Reviews in Software Engineering",
+    "author": "Naveed bin Ali and Muhammad Usman",
+    "booktitle": "Information and Software Technology",
+    "year": "2019",
+    "doi": "10.1016/j.infsof.2019.04.006",
+    "venue": "IST"
+  },
+  {
+    "id": "eigler2023",
+    "type": "inproceedings",
+    "title": "Tool-Based Software Engineering Education for Design Patterns: A Systematic Literature Review",
+    "author": "Tobias Eigler and Florian Huber and Georg Hagel and J\u00fcrgen Mottok",
+    "booktitle": "ECSEE",
+    "year": "2023",
+    "doi": "10.1145/3593663.3593670",
+    "venue": "ECSEE"
+  }
+]
